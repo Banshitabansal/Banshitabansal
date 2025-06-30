@@ -9,7 +9,7 @@ About Me
 
   
 
-  I am a dedicated and results-oriented Full-Stack Developer with a Bachelor of Computer Application from Karora PC Mahita Mahavoydiaya (2005–2008). With a strong foundation in modern web development technologies, I specialize in building and deploying responsive, scalable web applications using industry-standard frameworks and best practices. My passion for problem-solving, continuous learning, and adapting to emerging technologies drives my ability to deliver high-quality solutions.
+  I am a dedicated and results-oriented Full-Stack Developer with a Bachelor of Computer Application from Karora PC Mahita Mahavoydiaya (2021–2024). With a strong foundation in modern web development technologies, I specialize in building and deploying responsive, scalable web applications using industry-standard frameworks and best practices. My passion for problem-solving, continuous learning, and adapting to emerging technologies drives my ability to deliver high-quality solutions.
 
 Certified Full-Stack Developer with expertise in both front-end and back-end development.
 Proven track record of developing multiple responsive web applications.
