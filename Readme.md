@@ -15,7 +15,7 @@ Certified Full-Stack Developer with expertise in both front-end and back-end dev
 Proven track record of developing multiple responsive web applications.
 Strong problem-solving skills and a commitment to maintaining high work ethics.
 Excellent communication skills and a proactive approach to learning new technologies.
-Reach me at: bbanshita7461@gmail.com (replace with your actual email).
+Reach me at: bbanshita7461@gmail.com.
 
 
 
@@ -37,6 +37,6 @@ Technical Skills
 
 Contact
 
-Email: bbanshita7461@gmail.com (replace with your actual email)
+Email: bbanshita7461@gmail.com
 GitHub: github.com/banshitabansal
 Portfolio: [your-portfolio-link] (replace with your actual portfolio link)
