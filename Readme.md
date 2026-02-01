@@ -32,10 +32,9 @@ Continuously adapted to new web technologies and industry trends to stay at the 
 
 Technical Skills
 
-HTML, CSS, Javascript, Typescript, React Js, Next Js, Tailwind CSS
+HTML, CSS, Javascript, Typescript, React Js, Next Js, Tailwind CSS, Node Js, Express Js, MongoDB, MySQL, PostgreSQL
 
 Contact
 
 Email: bbanshita7461@gmail.com
 GitHub: github.com/Banshitabansal
-Portfolio: [your-portfolio-link] (replace with your actual portfolio link)
