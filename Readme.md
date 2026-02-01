@@ -1,41 +1,40 @@
-Banshita Bansal
+# 👋 Hi, I’m Banshita Bansal
 
-  
-    
-  
+## 💻 About Me
+I’m a results-driven **Full Stack Web Developer** with a Bachelor of Computer Application (2021–2024) from **Kanoria PG Mahila Mahavidhyalaya, Jaipur**. I have 1.5+ years of hands-on experience building **scalable, production-ready web applications** using modern web technologies.
 
+I specialize in creating **responsive user interfaces**, developing **robust backend services**, and integrating **APIs and CRM systems** to deliver real business value. I’m passionate about problem-solving, clean code, and continuously learning new technologies to stay aligned with industry best practices.
 
-About Me
+---
 
-  
+## 🚀 What I Do
+- Build full-stack web applications using **React, Next.js, TypeScript, and Node.js**
+- Develop scalable backend APIs and database-driven systems
+- Create responsive, user-friendly UI with performance optimization
+- Integrate third-party services, CRMs, and automation workflows
+- Deploy and manage applications using **Docker and VPS**
 
-  I am a dedicated and results-oriented Full-Stack Developer with a Bachelor of Computer Application from Kanoria PG Mahila Mahavidhyalaya, Jaipur, Rajasthan (2021–2024). With a strong foundation in modern web development technologies, I specialize in building and deploying responsive, scalable web applications using industry-standard frameworks and best practices. My passion for problem-solving, continuous learning, and adapting to emerging technologies drives my ability to deliver high-quality solutions.
+---
 
-Certified Full-Stack Developer with expertise in both front-end and back-end development.
-Proven track record of developing multiple responsive web applications.
-Strong problem-solving skills and a commitment to maintaining high work ethics.
-Excellent communication skills and a proactive approach to learning new technologies.
-Reach me at: bbanshita7461@gmail.com.
+## 🛠️ Technical Skills
+**Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Tools & Platforms:** Docker, Zoho CRM, Git, VPS  
 
+---
 
+## 🎓 Education
+**Bachelor of Computer Application (BCA)**  
+Kanoria PG Mahila Mahavidhyalaya, Jaipur, Rajasthan  
+*2021 – 2024*
 
-Education
+---
 
-Bachelor of Computer ApplicationKanoria PG Mahila Mahavidhyalaya, Jaipur, Rajasthan (2021–2024)Focused on web development technologies and software engineering principles.
+## 📫 Let’s Connect
+📧 Email: **bbanshita7461@gmail.com**  
+💼 GitHub: [github.com/Banshitabansal](https://github.com/Banshitabansal)
 
-Achievements
+---
 
-Successfully completed a Bachelor of Computer Application with a focus on web development technologies.
-Built and deployed multiple responsive web applications using modern frameworks and best practices.
-Demonstrated strong problem-solving abilities through various personal and professional projects.
-Continuously adapted to new web technologies and industry trends to stay at the forefront of development.
-
-Technical Skills
-
-HTML, CSS, Javascript, Typescript, React Js, Next Js, Tailwind CSS, Node Js, Express Js, MongoDB, MySQL, PostgreSQL
-
-Contact
-
-Email: bbanshita7461@gmail.com
-
-GitHub: github.com/Banshitabansal
+⭐ *Always open to learning, collaboration, and building impactful products.*
